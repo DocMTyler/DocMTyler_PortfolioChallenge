@@ -1,0 +1,93 @@
+body{
+    background-image: url("assets/WorldMap.jpg");
+    background-size: cover;
+	background-color: #444;
+}
+.darkBG{
+    text-align:center;
+    background:rgb(253, 253, 253);
+}
+
+.darkerBG{
+    text-align:center;
+    background:rgb(253, 253, 253);
+}
+
+.darkestBG{
+    text-align:center;
+    background:rgb(253, 253, 253);
+}
+
+.nav-item-left{
+    text-align:left;
+}
+
+.nav-item-center{
+    text-align:center;
+}
+
+.nav-item-right{
+    text-align:right;
+}
+
+.row{
+    color: white;
+    text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000,
+				-1px -1px 0 #000;
+}
+#launch{
+    position: static;
+    z-index: 1;
+}
+.footer{
+    text-align: bottom;
+}
+
+#aboutTitle{
+    text-align: center;
+    color: white;
+    text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000,
+				-1px -1px 0 #000;
+}
+
+.about{
+    text-align: center;
+    padding: 10px;
+}
+
+#contactTitle{
+    color: white;
+    text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000,
+				-1px -1px 0 #000;
+}
+
+.contact{
+    padding:10px;
+}
+ 
+#portfolioTitle{
+    color: white;
+    text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000,
+				-1px -1px 0 #000;
+}
+
+.portfolio{
+    padding:10px;
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
