@@ -1,34 +1,32 @@
 body{
-    background-image: url("assets/earthfromspace.gif");
+    background-image: url("assets/earthfromspace2.gif");
     background-size: cover;
 	background-color: #444;
 }
 .darkBG{
     text-align:center;
-    background:rgb(253, 253, 253);
+    background:transparent;
 }
 
-.darkerBG{
-    text-align:center;
-    background:rgb(253, 253, 253);
+.navbar-inner {
+    background:transparent;
 }
 
-.darkestBG{
-    text-align:center;
-    background:rgb(253, 253, 253);
+.footerInfo{
+    color: white;
 }
 
 .nav-item-left{
     text-align:left;
 }
 
-.nav-item-center{
+/* .nav-item-center{
     text-align:center;
 }
 
 .nav-item-right{
     text-align:right;
-}
+} */
 
 .row{
     color: white;
@@ -57,6 +55,10 @@ body{
 .about{
     text-align: center;
     padding: 10px;
+    text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000,
+				-1px -1px 0 #000;
 }
 
 #contactTitle{
